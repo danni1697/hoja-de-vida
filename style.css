@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    
+}
+header{
+
+    margin: 400px;
+    padding: 300px;
+    background-color: #0b9dc0;
+    font-family: 'Caveat', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    text-align: center;
+
+}
+*inicio{
+    width: 200px ;
+    height:200px ;
+    background-color:#2e6884;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}    
+
